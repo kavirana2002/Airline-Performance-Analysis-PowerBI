@@ -42,7 +42,7 @@ airline-performance-dashboard/
 │
 ├── AirlinePerformanceDashboard.pbix   # Main Power BI file
 ├── data/
-│   └── airline_data.csv              # Dataset used in the project
+│   └── airline_data.json              # Dataset used in the project
 ├── screenshots/
 │   └── dashboard_preview.png         # Preview image of the dashboard
 └── README.md                         # Project documentation
@@ -62,7 +62,7 @@ airline-performance-dashboard/
 
 ## 📷 Dashboard Preview
 
-
+https://github.com/kavirana2002/Airline-Performance-Analysis-PowerBI/blob/main/screenshots/Screenshot%202026-05-31%20194557.png
 ---
 
 ## 📚 Key Learnings
@@ -85,9 +85,8 @@ This project was created as part of my personal learning journey into **data ana
 
 Feel free to connect with me or share feedback!
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin-profile](https://linkedin.com)
-
+- GitHub: 
+- LinkedIn: https://www.linkedin.com/in/kanak-rana-b0630631a
 ---
 
 ⭐ If you found this project helpful or interesting, feel free to **star** the repository!
