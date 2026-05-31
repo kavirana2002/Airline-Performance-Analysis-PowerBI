@@ -40,7 +40,7 @@ To analyze and visualize airline performance data using Power BI, and gain hands
 ```
 airline-performance-dashboard/
 │
-├── AirlinePerformanceDashboard.pbix   # Main Power BI file
+├── Global Airline Performance Tracker.pbix    # Main Power BI file
 ├── data/
 │   └── airline_data.json              # Dataset used in the project
 ├── screenshots/
@@ -85,7 +85,7 @@ This project was created as part of my personal learning journey into **data ana
 
 Feel free to connect with me or share feedback!
 
-- GitHub: 
+- GitHub: https://github.com/kavirana2002
 - LinkedIn: https://www.linkedin.com/in/kanak-rana-b0630631a
 ---
 
