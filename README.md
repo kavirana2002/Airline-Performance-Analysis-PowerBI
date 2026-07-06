@@ -62,7 +62,14 @@ airline-performance-dashboard/
 
 ## 📷 Dashboard Preview
 
-https://github.com/kavirana2002/Airline-Performance-Analysis-PowerBI/blob/main/screenshots/Screenshot%202026-05-31%20194557.png
+![Dashboard Overview](screenshots/Screenshot%202026-05-31%20194557.png)
+
+![Flight Operations](screenshots/Screenshot%202026-05-31%20194700.png)
+
+![Airport Analysis](screenshots/Screenshot%202026-05-31%20195106.png)
+
+![Route & Cancellations](screenshots/Screenshot%202026-05-31%20195151.png)
+
 ---
 
 ## 📚 Key Learnings
